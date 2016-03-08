@@ -15,6 +15,9 @@ Now to the fun part, completing the Pong game. First of all, there is some thing
 ##The problems to solve
 ###The ball does not bounce.
   This issue could be solved in a number of ways. If you like a challenge you can modify the "BallControl" script to change direction on when colliding with walls. For the easy way; Create a "Physics2D Material". This material should be applied to the ball, remember that the material has two fields you can change, set these to values you find appropriate.
->!Spoiler in here
->!hehe
-###
+  
+>! Spoiler in here
+
+<spoiler>Hello</spoiler>
+
+### Other
